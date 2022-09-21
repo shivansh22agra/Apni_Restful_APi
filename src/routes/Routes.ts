@@ -1,6 +1,6 @@
 import express, { Request, Response } from "express";
 import { todo } from "../modals/todo.modal";
-//import { todo } from "../modals/todo.modal";
+import { todo } from "../modals/todo.modal";
 //mongodb ma ip address from anywhere karna
 
 
